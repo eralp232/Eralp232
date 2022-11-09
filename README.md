@@ -5,7 +5,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCF1zIInZL1wLfegXgBF66Sg)
 ![](https://komarev.com/ghpvc/?username=Eralp232&color=green)
 
-I started programming 2 year ago, I love technology and games! I love making clients and
+I started programming 2 year ago, I love technology and games! I love making clients and doing projects.
 
 ### Stats
 
