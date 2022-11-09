@@ -9,6 +9,7 @@
 
 ![Eralp232 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eralp232&show_icons=true&theme=tokyonight)
 [![Eralp232 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eralp232&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=Eralp232&color=green)
 
 
