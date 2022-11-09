@@ -11,8 +11,8 @@ I started programming 2 year ago, I love technology and games! I love making cli
 
 ### Stats
 
-![Eralp232 GitHub stats](https://github-readme-stats.vercel.app/api?username=Halqq&show_icons=true&theme=tokyonight)
-[![Eralp232 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halqq&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Eralp232 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eralp232&show_icons=true&theme=tokyonight)
+[![Eralp232 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eralp232&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
