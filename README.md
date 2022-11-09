@@ -1,11 +1,11 @@
-# + Hi! I'm Eralp232! 
++ # Hi! I'm Eralp232! 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCF1zIInZL1wLfegXgBF66Sg)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discord.com/users/659044861256925185)
 [![Discord](https://img.shields.io/discord/798640297453027348?label=Eralp232%27s%20Anarchy%20Community&style=for-the-badge)](https://discord.gg/m5xGEZecmZ)
 
-# + Stats 
++ # Stats 
 
 ![Eralp232 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eralp232&show_icons=true&theme=tokyonight)
 [![Eralp232 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eralp232&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
