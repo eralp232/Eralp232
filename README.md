@@ -3,7 +3,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCF1zIInZL1wLfegXgBF66Sg)
 [![Discord](https://img.shields.io/discord/798640297453027348?label=Eralp232%27s%20Anarchy%20Community&style=for-the-badge)](https://discord.gg/m5xGEZecmZ)
 + If you want to contact with me ;
-[![Discord]](https://discord.com/users/659044861256925185)
+[![Discord Presence](https://lanyard.cnrad.dev/api/981612660456050718)](https://discord.com/users/659044861256925185)
+
 ![Eralp232 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eralp232&show_icons=true&theme=tokyonight)
 [![Eralp232 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eralp232&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
