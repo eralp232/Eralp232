@@ -7,7 +7,8 @@
 
 + # [ Stats ]
 
-[![Eralp232 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eralp232&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/Eralp232/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Eralp232/github-stats-transparent/output/generated/languages.svg)
 
 ![](https://komarev.com/ghpvc/?username=Eralp232&color=green)
 
