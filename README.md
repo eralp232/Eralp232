@@ -7,7 +7,8 @@
 
 + # [ Stats ]
 
-
+<img src="https://github.com/Eralp232/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Eralp232/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 ![](https://komarev.com/ghpvc/?username=Eralp232&color=green)
 
