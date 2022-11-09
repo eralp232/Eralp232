@@ -7,8 +7,7 @@
 
 + # [ Stats ]
 
-![](https://raw.githubusercontent.com/Eralp232/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Eralp232/github-stats-transparent/output/generated/languages.svg)
+https://github-readme-stats.vercel.app/api?username=Eralp232Bug&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true
 
 ![](https://komarev.com/ghpvc/?username=Eralp232&color=green)
 
