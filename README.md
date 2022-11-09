@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/discord/798640297453027348?label=Eralp232%27s%20Anarchy%20Community&style=for-the-badge)](https://discord.gg/m5xGEZecmZ)
 
 + # [ Stats ]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eralp232&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eralp232&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Eralp232's github stats](https://github-readme-stats.vercel.app/api?username=Eralp232&show_icons=true&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=Eralp232&color=green)
