@@ -7,7 +7,7 @@
 
 + # [ Stats ]
 
-<a href="https://github.com/Eralp232/github-stats">
+<a href="https://github.com/Eralp232/eralp">
 <img src="https://github.com/Eralp232/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/Eralp232/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
