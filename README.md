@@ -1,4 +1,4 @@
-+ # Hi! I'm Eralp232! 
++ # Eralp232
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCF1zIInZL1wLfegXgBF66Sg)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
