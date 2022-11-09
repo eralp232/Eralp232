@@ -3,7 +3,9 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discord.com/users/659044861256925185)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCF1zIInZL1wLfegXgBF66Sg)
-[!Eralp232's Anarchy Community](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/m5xGEZecmZ)
+
+[!Eralp232's Anarchy Community](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://discord.gg/m5xGEZecmZ)
+
 ### Stats
 
 ![Eralp232 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eralp232&show_icons=true&theme=tokyonight)
