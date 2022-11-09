@@ -6,11 +6,7 @@
 [![Discord](https://img.shields.io/discord/798640297453027348?label=Eralp232%27s%20Anarchy%20Community&style=for-the-badge)](https://discord.gg/m5xGEZecmZ)
 
 + # [ Stats ]
-
-<a href="https://github.com/Eralp232/eralp">
-<img src="https://github.com/Eralp232/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Eralp232/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+[![Eralp's github stats](https://github-readme-stats.vercel.app/api?username=Eralp232)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Eralp232&color=green)
 
